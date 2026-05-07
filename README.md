@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Waleed</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Mobile+Developer;Flutter+%26+Android+Enthusiast;Clean+Architecture+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Junior+Mobile+Developer;Flutter+%26+Android+Enthusiast;Clean+Architecture+Advocate" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,46 +8,60 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
 
-### 🚀 About Me
+### 🚀 Professional Summary
 
-[cite_start]I am a dedicated **Junior Mobile Developer** with a strong foundation in **Software Engineering**[cite: 11]. [cite_start]I specialize in building high-performance mobile applications using **Flutter** and **Kotlin**[cite: 7, 82]. [cite_start]My focus is on writing clean, maintainable code by applying **SOLID principles** and modern architectures[cite: 22, 83].
+A result-driven **Junior Mobile Developer** based in **Cairo, Egypt**, dedicated to crafting high-performance, user-centric mobile experiences. I leverage the power of **Flutter**, **Kotlin**, and **Java** to build scalable cross-platform solutions.
 
-- [cite_start]🔭 **Current Focus:** Developing a scalable [E-Commerce App](https://github.com/mohamed-waleed55-tech/ECommerce_App.git) using GetX and MVC[cite: 58, 62].
-- [cite_start]🌱 **Learning Path:** Mastering **Clean Architecture**, **Dependency Injection (Get_it)**, and advanced **State Management** patterns[cite: 8, 38, 82].
-- [cite_start]🎓 **Top Achievement:** Developed **EduLink**, a cross-platform social platform (Graduation Project - Grade: 196/200)[cite: 12, 42].
+My development philosophy is rooted in **Clean Architecture** and **SOLID Principles**, ensuring that every line of code is maintainable, testable, and efficient.
 
 ---
 
-### 🛠️ Technical Toolbox
+### ⚡ Current Focus & Growth
 
-| Category | Badges |
-| :--- | :--- |
-| **Languages** | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
-| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![KMP](https://img.shields.io/badge/KMP-Multiplatform-blue) |
-| **State Management** | ![Bloc](https://img.shields.io/badge/Bloc-Cubit-blue) ![Provider](https://img.shields.io/badge/Provider-Package-blue) ![GetX](https://img.shields.io/badge/GetX-Management-yellow) |
-| **Backend / DB** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-Database-orange) |
+* 🔭 **Active Development** Architecting a feature-rich [E-Commerce App](https://github.com/mohamed-waleed55-tech/ECommerce_App.git) utilizing **GetX** for state management and **MVC** for robust structure.
+
+* 🌱 **Expanding Horizons** Deep diving into **Advanced Dependency Injection (Get_it)** and **Automated Unit Testing** to ensure zero-regression codebases.
+
+* 👯 **Collaboration** Contributing to [Evently App](https://github.com/mohamed-waleed55-tech/Evently_App.git), focusing on real-time event tracking and seamless user flows.
 
 ---
 
 ### 📂 Featured Projects
 
-* [cite_start]**[EduLink (Graduation Project)](https://github.com/mohamed-waleed55-tech)**: A student social platform built with **Kotlin Multiplatform** and **Computer Vision**[cite: 42, 43, 48].
-* [cite_start]**[Evently App](https://github.com/mohamed-waleed55-tech/Evently_App.git)**: Event management with **Firebase**, **Google Maps**, and **Provider**[cite: 51, 53, 57].
-* [cite_start]**[News App](https://github.com/mohamed-waleed55-tech/Islami_app.git)**: Dynamic news fetching using **REST APIs** and **MVC Architecture**[cite: 71, 72, 76].
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[EduLink](https://github.com/mohamed-waleed55-tech)** | [cite_start]**Graduation Project (Grade: 196/200).** A social platform for students featuring real-time chat, academic collaboration, and AI-driven content moderation[cite: 12, 42, 46, 48]. | [cite_start]Kotlin Multiplatform, Ktor, Room, Firebase [cite: 43] |
+| **[E-Commerce App](https://github.com/mohamed-waleed55-tech/ECommerce_App.git)** | [cite_start]A full-scale retail solution with cart management, order flow, and structured JSON parsing[cite: 58, 61]. [cite_start]Uses **GetX** for dependency injection[cite: 62]. | [cite_start]Flutter, GetX, REST API, MVC [cite: 59, 62] |
+| **[Evently App](https://github.com/mohamed-waleed55-tech/Evently_App.git)** | [cite_start]An event management tool with real-time data handling, Google Maps integration, and category filtering[cite: 51, 55, 57]. | [cite_start]Flutter, Firebase, Google Maps, Provider [cite: 53] |
+| **[News App](https://github.com/mohamed-waleed55-tech/Islami_app.git)** | [cite_start]A dynamic news aggregator with localization, dynamic theming, and robust error handling[cite: 71, 75]. | [cite_start]Flutter, REST API, Provider, MVC [cite: 72, 76] |
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Technical Expertise
+
+| Category | Badges |
+| :--- | :--- |
+| **Languages** | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![KMP](https://img.shields.io/badge/KMP-Multiplatform-blue) |
+| **State & DI** | ![Bloc](https://img.shields.io/badge/Bloc-Cubit-blue) ![Provider](https://img.shields.io/badge/Provider-Package-blue) ![GetX](https://img.shields.io/badge/GetX-Management-yellow) ![Get_it](https://img.shields.io/badge/Get_it-DI-green) |
+| **Backend / DB** | ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Hive](https://img.shields.io/badge/Hive-Database-orange) |
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-waleed55-tech&show_icons=true&theme=tokyonight" alt="Mohamed's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-waleed55-tech&show_icons=true&theme=tokyonight" alt="Mohamed's Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-waleed55-tech&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let's Connect
 
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-waleed-87aa151bb" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -56,5 +70,5 @@
 </p>
 
 <p align="center"> 
-  <i>"Writing code is easy. Writing clean code is an art."</i>
+  [cite_start]<i>"Passionate about writing clean, efficient, and maintainable code." [cite: 22]</i>
 </p>
