@@ -14,9 +14,9 @@
 
 ### 🚀 Professional Summary
 
-A result-driven **Junior Mobile Developer** based in **Cairo, Egypt**, dedicated to crafting high-performance, user-centric mobile experiences. I leverage the power of **Flutter**, **Kotlin**, and **Java** to build scalable cross-platform solutions.
+Junior Mobile Developer based in Cairo with hands-on experience building mobile applications using Flutter. Passionate about creating clean, responsive, and user-friendly UIs while applying Clean Architecture principles to build scalable and maintainable apps. Focused on performance, smooth user experiences, and continuous learning through real-world projects and modern mobile development practices.
 
-My development philosophy is rooted in **Clean Architecture** and **SOLID Principles**, ensuring that every line of code is maintainable, testable, and efficient.
+
 
 ---
 
